@@ -56,7 +56,7 @@
         </a>
         <a href="{{ route('register') }}" class="btn btn-sm"
            style="background:#DAAD29;color:#3E350E;border:none;">
-          Registrarse
+          Registrarxxse
         </a>
       @endguest
 
